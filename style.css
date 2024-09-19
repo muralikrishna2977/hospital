@@ -618,8 +618,6 @@ CSS for other boxes which are not here are managed above.  */
     }
 }
 
-* {
-    box-sizing: border-box;
-}
+
 
 
